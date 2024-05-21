@@ -1,0 +1,5 @@
+pandas
+requests
+ccxt
+hyperliquid-python-sdk
+eth_account

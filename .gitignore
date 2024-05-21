@@ -1,0 +1,8 @@
+# Ignore config.json file
+config.json
+
+# Ignore the __pycache__ folder
+__pycache__/
+
+# Ignore Jupyter notebook files
+*.ipynb

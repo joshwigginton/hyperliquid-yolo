@@ -1,0 +1,10 @@
+{
+    "secret_key": "HYPERLIQUID SECRET KEY",
+    "wallet_address": "HYPERLIQUID WALLET ADDRESS",
+    "cash": 10000,
+    "buffer": 0.02,
+    "MM": 1,
+    "TM": 1,
+    "ML": 1,
+    "rw_api_key": "ROBOTWEALTH API KEY"    
+}
