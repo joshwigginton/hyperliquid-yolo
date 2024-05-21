@@ -4,8 +4,8 @@
 
 This project implements a Python-based trading application that integrates with the Robot Wealth YOLO Crypto strategy. The strategy is based on Cross-Sectional and Time-Series momentum factors and is designed to execute trades and rebalance the portfolio weights through the Hyperliquid DEX. 
 
-For more info on Robot Wealth, check out https://robotwealth.com/
-For more info on Hyperliquid Exchange, check out https://app.hyperliquid.xyz/
+- For more info on Robot Wealth, check out https://robotwealth.com/
+- For more info on Hyperliquid Exchange, check out https://app.hyperliquid.xyz/
 
 ## Features
 
